@@ -1,0 +1,23 @@
+{
+  "name": "m-sopa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exenism/m-sopa.git"
+  },
+  "author": "Evelio <exenis.m@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exenism/m-sopa/issues"
+  },
+  "homepage": "https://github.com/exenism/m-sopa#readme",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "typescript": "^2.8.3"
+  }
+}
